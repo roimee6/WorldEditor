@@ -1,0 +1,8 @@
+name: WorldEditor
+main: WorldEditor\Main
+
+src-namespace-prefix: WorldEditor
+
+author: MaXoooZ
+api: [ 5.0.0 ]
+version: 1.0.0
